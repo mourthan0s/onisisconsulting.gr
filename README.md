@@ -50,14 +50,13 @@
 
 /////////////////////////////////////////////////////////////
 
-/* functions.php */
+/* header.php-footer.php */
 
- /* I have the rest of my functions and especially there I have also the code, to create custom post-types
- to use on my WordPress site. */
+ /* Both created with custom code */
 
 /////////////////////////////////////////////////////////////
 
-/* functions.php */
+/* hea.php */
 
  /* I have the rest of my functions and especially there I have also the code, to create custom post-types
  to use on my WordPress site. */
