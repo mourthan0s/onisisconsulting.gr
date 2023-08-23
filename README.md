@@ -13,7 +13,7 @@
    
  //js
    /* Contains all my JavaScript.
-   On the 'vendor' file exist the js of the 'Foundation' framework
+   On the 'vendor' file exists the js of the 'Foundation' framework
    My custom js exist on the 'app.js'.
    In the 'gr.js', I have added the translation of some words from english to greek language,
    that I couldn't translate with the 'Loco Translate Plugin' cause they was custom added. */
@@ -52,18 +52,22 @@
 
 /* header.php-footer.php */
 
- /* Both created with custom code */
+ /* Both were created with custom code. */
 
 /////////////////////////////////////////////////////////////
 
-/* hea.php */
+/* template-case-studies.php */
 
- /* I have the rest of my functions and especially there I have also the code, to create custom post-types
- to use on my WordPress site. */
+ /* Is the main page 'Case Studies' which is created with custom code,
+ contains-calls every "single case study" that has been created, and also a custom contact form element. */
 
 /////////////////////////////////////////////////////////////
 
-/* functions.php */
+/* single-case-studies.php */
 
- /* I have the rest of my functions and especially there I have also the code, to create custom post-types
- to use on my WordPress site. */
+ /* Is the structure behind every "single case study" that has been created. Over there called with order:
+ A. header
+ B. Title, Description, and feature image
+ C. The content is created with Gutenberg builder and contains also the 'template-parts'
+ D. The custom contact form element
+ E. The footer */
